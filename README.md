@@ -1,0 +1,1 @@
+A modern, hospital-focused hiring platform built with Next.js, designed to solve healthcare staffing shortages through a fast, trusted, and mobile-friendly experience.
